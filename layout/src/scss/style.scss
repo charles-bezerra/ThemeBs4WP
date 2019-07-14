@@ -1,0 +1,15 @@
+
+// Deixa as imagens dos posts responsivas
+.size_auto,
+.size_full,
+.size_large,
+.size_medium,
+.size_thumbnail {
+    max-width: 100%;
+    height: auto;
+}
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+body {
+    background-color: white;
+}
